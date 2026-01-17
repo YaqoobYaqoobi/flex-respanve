@@ -1,9 +1,10 @@
 .flex_container{
     border: 2px solid green;
-    margin: 0 auto;
+    margin: auto auto;
     display: flex;
     flex-wrap: wrap;
     max-width: 1200px;
+
 }
 
 .item{
@@ -13,4 +14,7 @@
     background-color: red;
     margin: 0.7rem;
     flex: 1;
+    border: 1px solid black;
+    border-radius: 20px;
+    border-top-left-radius:5px ;
 }
