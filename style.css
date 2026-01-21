@@ -6,7 +6,21 @@
     max-width: 1200px;
 
 }
+/* new 
 
+
+forthw ine*/
+.item{
+    min-width: 100px ;
+    max-width: 200px;
+    min-height: 150px;
+    background-color: red;
+    margin: 0.7rem;
+    flex: 1;
+    border: 1px solid black;
+    border-radius: 20px;
+    border-top-left-radius:5px ;
+}
 .item{
     min-width: 100px ;
     max-width: 200px;
